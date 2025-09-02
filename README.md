@@ -62,7 +62,13 @@ Every tilt, roll, and movement of the sensor is **instantly mirrored** in a 3D a
 ## 📷 Demo Preview  
 *(Replace with your own screenshots or GIFs)*  
 
+
 ![4](https://github.com/user-attachments/assets/e9325303-5187-44d7-94a8-9780a9ead9a0)
+![5](https://github.com/user-attachments/assets/3d286db1-8330-4544-acd5-5d13af8069a4)
+![6](https://github.com/user-attachments/assets/d6e87aea-5e49-4cdf-8238-57ce5ca3cd3c)
+<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/67de8d73-015c-4c71-9c41-d2e5fe51249e" />
+<img width="1919" height="1079" alt="2" src="https://github.com/user-attachments/assets/06b3895c-0a6b-413e-8112-58786a632a75" />
+
 
 ---
 
