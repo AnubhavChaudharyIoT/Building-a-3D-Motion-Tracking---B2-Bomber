@@ -62,7 +62,7 @@ Every tilt, roll, and movement of the sensor is **instantly mirrored** in a 3D a
 ## 📷 Demo Preview  
 *(Replace with your own screenshots or GIFs)*  
 
-![Demo Screenshot](video.mp4)  
+![Demo Screenshot](4.png)  
 
 ---
 
@@ -143,7 +143,7 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 ---
 
 ## 🔗 Connect With Me  
-🌍 [LinkedIn](https://linkedin.com/) | 💻 [Portfolio](https://github.com/) | ✉️ Email: *yourmail@example.com*  
+🌍 [LinkedIn](www.linkedin.com/in/anubhav-chaudhary-595557319) | 💻 [Portfolio]([https://github.com/](https://github.com/AnubhavChaudharyIoT)) | ✉️ Email: anubhavchaudhary@outlook.com 
 
 ---
 
